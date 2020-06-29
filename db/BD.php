@@ -1,10 +1,10 @@
 <?php
 
 $pdo=null;
-$host="localhost";
-$user="root";
-$password="Admin123";
-$bd="estadisticas";
+$host="ip-10-0-104-71";
+$user="b1d58d81884da3";
+$password="2ac2672b";
+$bd="heroku_c8381f705ba64e3";
 
     function conectar(){
         try{
