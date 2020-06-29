@@ -8,5 +8,5 @@ header("Access-Control-Allow-Methods: GET");
 //header("Access-Control-Allow-Credentials: true");
 //header('content-type: application/json; charset=utf-8');
 //header('Content-Type: application/json');
-
+set_time_limit(100);
 ?>
